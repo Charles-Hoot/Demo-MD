@@ -4,6 +4,24 @@ Demonstration of mark down
 This is *italics* and this is __bold__.
 And this is ***bold italics***
 
+An unordered list of names
+* Thor
+* Captain America
+* Spiderman
+* Wonder Woman
+* Chipmonks
+  * Alvine
+  * Theodore
+* Loki
+
+This is a list of favorite cities
+1. Hyderabad
+3. Delhi
+  1. London
+  4. Paris
+11. Berlin
+10. Kansas City
+
 We are going to define a function with two variables: `x` and `y`.
 ```
 def swap(x,y):
