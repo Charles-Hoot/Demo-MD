@@ -5,7 +5,9 @@ This is *italics* and this is __bold__.
 And this is ***bold italics***
 
 Take me to [apple web site](https://www.apple.com)
-We have an image ![]()
+
+We have an image ![MARVEL thor](01Thor.jpg)
+
 ---
 
 An unordered list of names
