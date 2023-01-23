@@ -1,2 +1,2 @@
 This is another markdown
-We want an image!  ![some random image]()
+We want an image!  ![some random image](robot.webp)
