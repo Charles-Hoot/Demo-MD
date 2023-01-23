@@ -26,4 +26,5 @@ prince of thieves
 
 -----------------
 Take me to google [Go there now](https://www.google.com)
+Some place else [another md in my project](second.md)
 -------------------
