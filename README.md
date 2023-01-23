@@ -25,6 +25,6 @@ prince of thieves
    1. three
 
 -----------------
-Take me to google [Go there now](https://www.google.com)
-Some place else [another md in my project](second.md)
+1. Take me to google [Go there now](https://www.google.com)
+2. Some place else [another md in my project](second.md)
 -------------------
