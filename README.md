@@ -31,3 +31,4 @@ Making a list
 ------------
 More text
 Take me to apple [please](https://www.apple.com)
+Give me another markdown page [click me](another.md)
