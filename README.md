@@ -7,6 +7,7 @@ And this is ***bold italics***
 Here is a list of Disney characters
 * Little Mermaid
 * Simba
-*Snow white
+* Snow white
 * Aladdin
-* Scar Face
+prince of thieves
+* Scar Face 
